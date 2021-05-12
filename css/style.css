@@ -58,6 +58,10 @@ p {
   color: white;
   padding: 20px;
 }
+.contact-link:hover {
+  text-decoration: underline;
+  color: white;
+}
 
 .about-link {
   color: var(--primary-color);
